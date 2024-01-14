@@ -1,3 +1,4 @@
+Prvo skinete Projekt_pap zipanu datoteku raspakirajte je i zatim se u komandoj liniji pozicionirajte u taj folder.
 Da biste pokrenuli Flask aplikaciju, pokrenite ovaj skript u komandnoj linij python projekt_franco.py.Nakon što dobijete prve dvije slike jednu za drugomte ih ugasite aplikacija će biti dostupna na http://localhost:5000/transakcije i pružit će pristup podacima transakcija preko API-ja.
 Napomena:
 
